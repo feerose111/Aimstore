@@ -42,7 +42,7 @@ export const LoginRegister = () => {
 
                     <div className="register-link">
                         <p>Don't have an account? 
-                            <a href='#' onClick={registerLink}> Register</a>
+                            <a href='#' onClick={registerLink}> Register </a>
                         </p>
                     </div>
 
